@@ -1,9 +1,13 @@
-### If you're reading this you're too close ###
-# one #
-## two ##
-### three ###
-#### four ####
+# If you're reading this you're too close #
+# one hashtag #
+## two hashtags ##
+### three hashtags ###
+#### four hashtags ####
 
-** two asterisks **
+*1 asterisk*
 
-*** 3 asterisks ***
+**2 asterisks**
+
+***3 asterisks***
+
+[link](#)
