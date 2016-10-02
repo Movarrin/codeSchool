@@ -10,7 +10,7 @@ red
 
 [the link](thelinkadress.com)
 
-Template
+Template:
 
 ```html
 {{first collection}}
@@ -18,3 +18,16 @@ Template
 
 d
 
+```javascript
+collection = [
+    'Amy wong',
+    'Bender',
+    `Hermes Conrad'
+]
+```
+
+```html
+{{#withFirst collection}}
+    <p>{{this}} is smart.</p>
+{{/withFirst}}
+```
