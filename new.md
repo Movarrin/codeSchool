@@ -9,3 +9,12 @@ red
 
 
 [the link](thelinkadress.com)
+
+Template
+
+```html
+{{first collection}}
+```
+
+d
+
