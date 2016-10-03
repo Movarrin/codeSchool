@@ -1,0 +1,1 @@
+git config --global alias.lg3 "log --color --graph --pretty=format:'%C(reverse white)%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
